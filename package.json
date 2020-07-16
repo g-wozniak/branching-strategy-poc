@@ -1,0 +1,19 @@
+{
+  "name": "branching-strategy-poc",
+  "version": "1.0.0",
+  "description": "Branching strategy PoC to improve CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-wozniak/branching-strategy-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-wozniak/branching-strategy-poc/issues"
+  },
+  "homepage": "https://github.com/g-wozniak/branching-strategy-poc#readme"
+}
